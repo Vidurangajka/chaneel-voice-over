@@ -16,11 +16,11 @@ This project implements a fully **analog voice signal processing system** using 
 
 ## 📐 Schematics & Design
 
-| Type            | Tool Used        | File Location      |
-|-----------------|------------------|--------------------|
-| Circuit Diagram | Proteus / Altium | `/schematics/`     |
-| PCB Layout      | Proteus / Altium | `/pcb/`            |
-| Bill of Materials | CSV / PDF      | `/docs/BOM.csv`    |
+| Type            | Tool Used        | 
+|-----------------|------------------|
+| Circuit Diagram | LT Spice |
+| PCB Layout      |  Altium |
+
 
 > Full circuit breakdown and block-level explanation available in the project report.
 
